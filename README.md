@@ -1,6 +1,5 @@
 # Mamba2_GPT2
-<<<<<<< HEAD
-Implementation from a total scratch of codes to integrate mamba2 with gpt2. This is just a coding project for self-interests and practice, and there is nothing sota at all.
+Implementation of codes to integrate mamba2 with gpt2. This is just a coding project for self-interests and practice, and there is nothing sota at all.
 
 ## Setup Environment 
 ### Conda
@@ -20,6 +19,4 @@ pip install wandb==0.17.1
 ```
 
 ### Docker
-=======
-Implementation of codes to integrate mamba2 with gpt2. This is just a coding project for self-interests and practice, and there is nothing sota at all.
->>>>>>> df79aa20869acbd5010d6222a2a78331d2504cb9
+
